@@ -56,10 +56,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D0ra59MayIBoaO3ALaAU" name="GRASP">
-    <mxGraphModel dx="569" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-19" value="Login " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="88" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-20" value="Manage User Roles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="118" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-21" value="Create Property Listing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="168" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-22" value="Manage Property Listing" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-23" value="Search Properties" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="238" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-24" value="Filter Properties " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="268" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-25" value="View Virtual Tours and Media" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="298" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-26" value="Request Property Viewing " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="338" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-27" value="Approve/Reschedule/Decline &#39;&lt;div&gt;Viewing Request&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="363" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-28" value="Send Automated Reminders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="428" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-29" value="Submit Offer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="468" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-30" value="Review Offer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="508" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-31" value="Accept/Counter/Reject&amp;nbsp;&lt;div&gt;Offer &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="543" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-32" value="Log Transaction Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="578" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-34" value="Update Offer Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="608" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-35" value="View Property Performance Reports" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="628" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-36" value="View Agent Activity Reports" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="658" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIzB0z3w5J9MXsxo445Z-37" value="Access Client Insights" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="698" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
